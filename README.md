@@ -5,7 +5,7 @@ This project is an interactive Finance Loan Analysis Dashboard built using Power
 
 The dashboard is designed to support better decision-making by visually representing complex data in a simple and understandable format.
 
-<img width="1394" height="794" alt="FINANCE LOAN ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/ddd4e1fe-75e4-4c2b-b4fa-3996e2111367" />
+<img width="1394" height="794" alt="FINANCE LOAN ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/0d24e3aa-4a2c-448b-9c28-59ade7dad7ef" />
 
 
 ## Objectives
@@ -55,6 +55,13 @@ The dataset used in this project includes:
 - Power BI
 - Data Visualization
 - Data Analysis
+
+## Overcome Technologies Used
+- Microsoft Power BI for dashboard creation
+- Data Cleaning and Transformation techniques
+- Data Modeling for relationships between datasets
+- DAX (Data Analysis Expressions) for calculations and KPIs
+- Interactive Visualization techniques for better insights
 
 ## Future Improvements
 - Add advanced analytics
